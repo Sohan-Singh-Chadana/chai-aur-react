@@ -1,0 +1,11 @@
+body {
+  background-color: #0e1217;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
